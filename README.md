@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### A Junior Full Stack Web Developer
-I'm Mohammad Naimur Rahman. I work as a full stack web developer. I am a MERN stack developer. And react is my weakness...
+I'm Mohammad Naimur Rahman. I work as a full stack web developer. I am a MERN stack developer and a react enthusiast...
 
 ![Profile views](https://gpvc.arturio.dev/mohammad-naimur-rahman) 
 
@@ -34,7 +34,7 @@ Skills: HMTL - CSS - SCSS - Bootstrap - JavaScript - React - Material UI - Node 
 - 👯 I’m looking to collaborate on Some big fullstack project 
 - 🤔 I’m looking for help with problem solving 
 - 📫 How to reach me: [Linked In](https://www.linkedin.com/in/mohammad-naimur-rahman/) 
-- ⚡ Fun fact: Code is addicting.. Stay stucked with it 
+- ⚡ Fun fact: I love travelling and photography
 
 ## Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohammad-naimur-rahman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammad-naimur-rahman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/yourNaimur)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/your_naimur/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/your_naimur)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/naimur-rahman-fullstack)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](naimurrahman.ml)  
