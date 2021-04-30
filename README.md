@@ -2,13 +2,15 @@
 #### A Junior Full Stack Web Developer
 I'm Mohammad Naimur Rahman. I work as a full stack web developer. I am a MERN stack developer. And react is my weakness...
 
+![Profile views](https://gpvc.arturio.dev/mohammad-naimur-rahman) 
+
 Skills: HMTL - CSS - SCSS - Bootstrap - JavaScript - React - Material UI - Node - Express - Mongodb - Redux
 
 - 🔭 I’m currently working on a full stack project 
 - 🌱 I’m currently learning MERN STACK 
 - 👯 I’m looking to collaborate on Some big fullstack project 
 - 🤔 I’m looking for help with problem solving 
-- 📫 How to reach me: [Linked Ini](https://www.linkedin.com/in/mohammad-naimur-rahman/) 
+- 📫 How to reach me: [Linked In](https://www.linkedin.com/in/mohammad-naimur-rahman/) 
 - ⚡ Fun fact: Code is addicting.. Stay stucked with it 
 
 
@@ -18,6 +20,4 @@ Skills: HMTL - CSS - SCSS - Bootstrap - JavaScript - React - Material UI - Node 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-naimur-rahman&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohammad-naimur-rahman)  
-
-![Profile views](https://gpvc.arturio.dev/mohammad-naimur-rahman)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohammad-naimur-rahman)   
