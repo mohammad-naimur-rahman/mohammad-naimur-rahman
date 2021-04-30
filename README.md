@@ -42,6 +42,4 @@ Skills: HMTL - CSS - SCSS - Bootstrap - JavaScript - React - Material UI - Node 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-naimur-rahman)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Github stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-naimur-rahman&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohammad-naimur-rahman)   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-naimur-rahman&show_icons=true&count_private=true)   
