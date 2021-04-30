@@ -1,1 +1,3 @@
-HEy there
+I'm Mohammad Naimur Rahman. I work as a full stack web developer. I am a MERN stack developer. And react is my weakness...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?mohammad-naimur-rahman=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
