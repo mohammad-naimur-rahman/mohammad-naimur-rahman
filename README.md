@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **naeemhasan28@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yMkkczQzPJj9MYwPBYIwoaX3sfRAwCh3/view?usp=sharing](https://drive.google.com/file/d/1yMkkczQzPJj9MYwPBYIwoaX3sfRAwCh3/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1yMkkczQzPJj9MYwPBYIwoaX3sfRAwCh3/view?usp=sharing)
 
 - ⚡ Fun fact **I focus at one thing too much that I forget everything else even like basic stuffs**
 
