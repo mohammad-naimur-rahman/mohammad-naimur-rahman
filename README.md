@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Picturesque](https://github.com/mohammad-naimur-rahman/Picturesque)
 
-- 🌱 I’m currently learning **Strapi,**
+- 🌱 I’m currently learning **Framer Motion**
 
 - 👨‍💻 All of my projects are available at [https://naimur-rahman-dev.netlify.app/](https://naimur-rahman-dev.netlify.app/)
 
