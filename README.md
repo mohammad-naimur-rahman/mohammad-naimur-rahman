@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad-naimur-rahman" alt="mohammad-naimur-rahman" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/your_naimur" target="blank"><img src="https://img.shields.io/twitter/follow/your_naimur?logo=twitter&style=for-the-badge" alt="your_naimur" /></a> </p>
+<p align="left"> <a href="https://twitter.com/naimurrrrrrr" target="blank"><img src="https://img.shields.io/twitter/follow/your_naimur?logo=twitter&style=for-the-badge" alt="your_naimur" /></a> </p>
 
 - 🔭 I’m currently working on [Picturesque](https://github.com/mohammad-naimur-rahman/Picturesque)
 
