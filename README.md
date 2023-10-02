@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Reader's Cafe](https://github.com/mohammad-naimur-rahman/readers-cafe)
 
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I’m currently learning **CSE Fundamentals** @[Phitron.io](https://phitron.io)
 
 - 👨‍💻 All of my projects are available at [https://naimur-rahman-dev.netlify.app/](https://naimur-rahman-dev.netlify.app/)
 
