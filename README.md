@@ -11,15 +11,17 @@
 
 - 🌱 I’m currently learning **CSE Fundamentals** @[Phitron.io](https://phitron.io)
 
-- 👨‍💻 All of my projects are available at [https://naimur-rahman-dev.netlify.app/](https://naimur-rahman-dev.netlify.app/)
+- 👩‍💻 Visit my [portfolio](https://naimur.pro)
 
-- 📝 I regularly write articles on [https://naimur-rahman-dev.netlify.app/blogs](https://naimur-rahman-dev.netlify.app/blogs)
+- 💼 All of my projects are available at [here]([https://naimur-rahman-dev.netlify.app/](https://github.com/mohammad-naimur-rahman?tab=repositories))
+
+- 📝 I regularly write articles on [@medium](https://naimur-rahman-dev.medium.com/)
 
 - 💬 Ask me about **React, Express, Advanced CSS, web animations, layout etc.**
 
 - 📫 How to reach me **naeemhasan28@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1yMkkczQzPJj9MYwPBYIwoaX3sfRAwCh3/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1OUchj-iAdiGwUh7XmlzVFNsXVYQD1h3u/view?usp=drive_link)
 
 - ⚡ Fun fact **I focus at one thing too much that I forget everything else even like basic stuffs**
 
