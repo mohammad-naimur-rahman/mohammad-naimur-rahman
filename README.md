@@ -13,7 +13,7 @@
 
 - 👩‍💻 Visit my [portfolio](https://naimur.pro)
 
-- 💼 All of my projects are available at [here](https://naimur-rahman-dev.netlify.app/](https://github.com/mohammad-naimur-rahman?tab=repositories)
+- 💼 All of my projects are available at [here](https://github.com/mohammad-naimur-rahman?tab=repositories)
 
 - 📝 I regularly write articles on [@medium](https://naimur-rahman-dev.medium.com/)
 
