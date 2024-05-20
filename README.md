@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Reader's Cafe](https://github.com/mohammad-naimur-rahman/readers-cafe)
 
-- 🌱 I’m currently learning **CSE Fundamentals** @[Phitron.io](https://phitron.io)
+- 🌱 I’m currently learning **LangChain JS** @[Phitron.io](https://www.udemy.com/course/ai-nodejs-openai-chatgpt-langchain-typescript)
 
 - 👩‍💻 Visit my [portfolio](https://naimur.pro)
 
