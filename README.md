@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **LangChain JS** @[Udemy](https://www.udemy.com/course/ai-nodejs-openai-chatgpt-langchain-typescript)
 
-- 👩‍💻 Visit my [portfolio](https://naimur.pro)
+- 👩‍💻 Visit my [portfolio](https://naimur.is-a.dev)
 
 - 💼 All of my projects are available at [here](https://github.com/mohammad-naimur-rahman?tab=repositories)
 
